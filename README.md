@@ -1,6 +1,6 @@
 # -IA25_P02_G15
 
-# Projeto O2 – Inteligência Artificial  
+# Projeto 02 – Inteligência Artificial  
 ### Grupo G15
 
 Repositório GitHub do projeto:  
